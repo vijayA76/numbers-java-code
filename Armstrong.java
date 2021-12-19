@@ -1,3 +1,5 @@
+// ...... find armstrong numbers in given range .......
+
 import java.util.Scanner;
 
 class Armstrong {

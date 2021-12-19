@@ -1,3 +1,5 @@
+// ...... find factorization of a number ex- factorization of 12: 1x2x2x3 .......
+
 import java.util.Scanner;
 
 class Factorization {

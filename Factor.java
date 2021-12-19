@@ -1,4 +1,8 @@
+// ...... find factor of a number ex  .......
+
 import java.util.Scanner;
+
+// ...... find factors of a number ex - factor of 12: 1, 2, 3, 4, 6, 12 .......
 
 class Factor {
 

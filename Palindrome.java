@@ -1,4 +1,9 @@
+// ................... find palindrome numbers in given range ..................
+//-------- 12321, 11, 44644 etc are palindrome because reverse is equal to itselfs --------
+
+
 import java.util.Scanner;
+
 class Palindrome {
 
 	public static void main(String[] args) {
